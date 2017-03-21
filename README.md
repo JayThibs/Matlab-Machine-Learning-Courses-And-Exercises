@@ -1,4 +1,4 @@
-# Matlab-Machine-Learning
+# Matlab Machine Learning
 Where I keep all of the Matlab machine learning exercises I've done. (Completed: Andrew Ng's course on Coursera)
 
 I will not be uploading my homework and quizes for courses that offer a certificate (if you pay) as I do not want people to copy my work while completing the courses. 

@@ -1,7 +1,9 @@
-# Matlab-Machine-Learning-Exercises
+# Matlab-Machine-Learning
 Where I keep all of the Matlab machine learning exercises I've done. (Completed: Andrew Ng's course on Coursera)
 
-Proof I completed all of the homework and quizes in Stanford's Coursera course on Machine Learning:
+I will not be uploading my homework and quizes for courses that offer a certificate (if you pay) as I do not want people to copy my work while completing the courses. 
+
+Proof I passed all of the homework and quizes in Stanford's Coursera course on Machine Learning (I did not pay for the certificate, I completed the course for free):
 
 ![alt text](https://github.com/JayThibs/Matlab-Machine-Learning-Exercises/blob/master/Machine%20Learning%20by%20Ng%20COMPLETED.png "ML Stanford completed")
 
